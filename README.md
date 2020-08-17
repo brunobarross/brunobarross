@@ -1,4 +1,5 @@
- # Olá 👋, eu sou o Bruno Barros! #
+<h1 align="center">Olá 👋, eu sou o Bruno Barros</h1>
+<h3 align="center">Um apaixonado por tecnologia que agora estuda para ser um desenvolvedor front-end, Rio de Janeiro - RJ 🇧🇷</h3>
 
 - 🔭 Atualmente estou trabalhando em meu portfólio...
 - 🌱 Atualmente estou aprendendo posicionamento e UI design...
