@@ -1,11 +1,15 @@
 <h1 align="center">Olá 👋, me chamo Bruno Barros</h1>
 <h3 align="center">Carioca, extremamente apaixonado por tecnologia e que agora estuda para ser um bom Front-end!</h3>
 
+- 🔭 Atualmente estou trabalhando em **meu portfólio...**
+
+- 🌱Atualmente estou focando em aprender **UI design e Javascript...**
+
+- 🤝 Atualmente busco ajuda em **Javascript.**
+
 - Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/altamiro-bruno-0b853697/](https://www.linkedin.com/in/altamiro-bruno-0b853697/)
 
 - Me encontre em **https://www.linkedin.com/in/altamiro-bruno-0b853697/**
-
-- ⚡ Fun fact **Gosto muito de ouvir músicas, ler e jogar nos tempos livres.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
