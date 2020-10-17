@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Bruno Barros</h1>
 <h3 align="center">Carioca, extremamente apaixonado por tecnologia e que agora estuda para ser um bom Front-end!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoxx1995" alt="brunoxx1995" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em **meu portfólio...**
 
 - 🌱Atualmente estou focando em aprender **UI design e Javascript...**
