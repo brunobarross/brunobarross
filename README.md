@@ -1,14 +1,18 @@
-<h1 align="center">Olá 👋, me chamo Bruno Barros!</h1>
-<h3 align="center">Carioca, extremamente apaixonado por tecnologia e que agora estuda para ser um bom Front-end! - RJ 🇧🇷</h3>
+<h1 align="center">Olá 👋, me chamo Bruno Barros</h1>
+<h3 align="center">Carioca, extremamente apaixonado por tecnologia e que agora estuda para ser um bom Front-end!</h3>
 
-- 🔭 Atualmente estou trabalhando em meu portfólio...
-- 🌱 Atualmente estou aprendendo UI design e Javascript...
-- 🤔 Estou procurando ajuda em boas práticas de UI design...
-- 📫 Me encontre em altamirobrunodev@outlook.com ...
+- Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/altamiro-bruno-0b853697/](https://www.linkedin.com/in/altamiro-bruno-0b853697/)
 
+- Me encontre em **https://www.linkedin.com/in/altamiro-bruno-0b853697/**
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Brunoxx1995)
+- ⚡ Fun fact **Gosto muito de ouvir músicas, ler e jogar nos tempos livres.**
 
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/altamiro-bruno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altamiro-bruno" height="30" width="40" /></a>
+</p>
 
-<!--
-**Brunoxx1995/Brunoxx1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoxx1995&layout=compact" alt="brunoxx1995" /></p>
