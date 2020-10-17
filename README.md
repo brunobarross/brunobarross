@@ -9,7 +9,7 @@
 
 - Todos os meus projetos estão disponíveis em [https://github.com/Brunoxx1995?tab=repositories](https://github.com/Brunoxx1995?tab=repositories)
 
-- Me encontre em **https://www.linkedin.com/in/altamiro-bruno**
+- Me encontre em **https://www.linkedin.com/in/altamiro-bruno-0b853697**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
