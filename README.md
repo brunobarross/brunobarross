@@ -7,9 +7,9 @@
 
 - 🤝 Atualmente busco ajuda em **Javascript.**
 
-- Todos os meus projetos estão disponíveis em [https://www.linkedin.com/in/altamiro-bruno-0b853697/](https://www.linkedin.com/in/altamiro-bruno-0b853697/)
+- Todos os meus projetos estão disponíveis em [https://github.com/Brunoxx1995?tab=repositories](https://github.com/Brunoxx1995?tab=repositories)
 
-- Me encontre em **https://www.linkedin.com/in/altamiro-bruno-0b853697/**
+- Me encontre em **https://www.linkedin.com/in/altamiro-bruno**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
