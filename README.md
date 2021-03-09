@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando em **meu portfólio...**
 
-- 🌱Atualmente estou focando em aprender **UI design**
+- 🌱Atualmente estou focando em aprender **Javascript**
 
-- 🤝 Atualmente busco ajuda em **UI design.**
+- 🤝 Atualmente busco ajuda em **Javascript**
 
 - Todos os meus projetos estão disponíveis em [https://github.com/brunobarross?tab=repositories](https://github.com/brunobarross?tab=repositories)
 
