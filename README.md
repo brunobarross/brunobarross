@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Bruno Barros</h1>
+<h1 align="center">Olá 👋, sou Altamiro Bruno</h1>
 <h3 align="center">Carioca, extremamente apaixonado por tecnologia e que agora estuda para ser um bom Front-end!</h3>
 
 - 🔭 Atualmente estou trabalhando em **meu portfólio...**
