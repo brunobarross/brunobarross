@@ -5,7 +5,7 @@
 
 - 🌱Atualmente estou focando em aprender **Javascript puro**,
 
-- 🤝 Atualmente busco ajuda em ** Desenvolver aplicações com Javascript puro**,
+- 🤝 Atualmente busco ajuda em **Desenvolver aplicações com Javascript puro**,
 
 - Todos os meus projetos estão disponíveis em [https://github.com/brunobarross?tab=repositories](https://github.com/brunobarross?tab=repositories)
 
