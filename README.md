@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **meu portfólio...**
 
-- 🌱Atualmente estou focando em aprender **Javascript**
+- 🌱Atualmente estou focando em aprender **Javascript Puro**
 
 - 🤝 Atualmente busco ajuda em **Javascript**
 
