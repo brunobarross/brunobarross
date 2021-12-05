@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou Altamiro Bruno</h1>
 <h3 align="center">Desenvolvedor frontend apaixonado pelo o que faz!</h3>
 
-- 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Júnior**;
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Júnior**,
 
-- 🌱Atualmente estou focando em aprender **Javascript Puro**;
+- 🌱Atualmente estou focando em aprender **Javascript puro**,
 
-- 🤝 Atualmente busco ajuda em **Javascript**;
+- 🤝 Atualmente busco ajuda em ** Desenvolver aplicações com Javascript puro**,
 
 - Todos os meus projetos estão disponíveis em [https://github.com/brunobarross?tab=repositories](https://github.com/brunobarross?tab=repositories)
 
