@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Altamiro Bruno</h1>
 <h3 align="center">Desenvolvedor frontend apaixonado pelo o que faz!</h3>
 
-- 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Júnior**,
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Júnior** na **<a href="https://novadata.com.br/">Nova Data</a>**,
 
 - 🌱Atualmente estou focando em aprender **Javascript puro**,
 
