@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Altamiro Bruno</h1>
+<h1 align="center">Olá 👋,sou chamo Altamiro Bruno.</h1>
 <h3 align="center">Desenvolvedor Front End e apaixonado por tecnologia!</h3>
 
 - 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Junior** na **<a href="https://novadata.com.br/">Nova Data</a>**,
