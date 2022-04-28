@@ -3,9 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como **Desenvolvedor Front End Junior** na **<a href="https://novadata.com.br/">Nova Data</a>**,
 
-- 🌱Atualmente estou focando em aprender **Javascript puro**,
-
-- 🤝 Atualmente busco ajuda em **Desenvolver aplicações com Javascript puro**,
+- 🌱Atualmente estou focando em aprender **React.js**,
 
 - Todos os meus projetos estão disponíveis em [https://github.com/brunobarross?tab=repositories](https://github.com/brunobarross?tab=repositories)
 
