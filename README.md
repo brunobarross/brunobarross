@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript e React.js</strong>
+  🦄 Tecnologias: <strong>JavaScript, React.js, Sass e TailwindCSS</strong>
 </p>
 
 <p align="left">
