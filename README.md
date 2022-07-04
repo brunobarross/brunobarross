@@ -1,7 +1,7 @@
 <img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode">
 
 <p align="left"> 
-  Eai, meu nome é Altamiro Bruno. Sou <strong>Desenvolvedor Front-end</strong>.<br>
+  Opa, meu nome é Altamiro Bruno. Sou <strong>Desenvolvedor Front-end</strong>.<br>
  Atualmente estou estudando e praticando <strong>React.js</strong>
 </p>
 
