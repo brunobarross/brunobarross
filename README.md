@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Opa, meu nome é Altamiro Bruno. Sou <strong>Desenvolvedor Front-end</strong>.<br>
- Atualmente estou estudando e praticando <strong>React.js</strong>
+ Atualmente estou estudando <strong>Vue.js</strong>
 </p>
 
 <p align="left">
