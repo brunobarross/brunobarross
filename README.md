@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Opa, meu nome é Altamiro Bruno. Sou <strong>Desenvolvedor Front-end</strong>.<br>
- Atualmente estou estudando <strong>Vue.js</strong>
+  Possuo experiência em desenvolvimento de aplicações utilizando Javascript e frameworks como Vue.js e React.js</strong>
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript, React.js, Vue.js Sass e TailwindCSS.</strong>
+  🦄 Tecnologias: <strong>JavaScript, React.js, Vue.js, Sass e TailwindCSS.</strong>
 </p>
 
 <p align="left">
