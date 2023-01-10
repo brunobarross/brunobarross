@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  Se desejar trocar uma ideia comigo irei ficar a disposição: ⤵️
+ Se gostar de um bom papo, fique a vontade para me seguir nas redes abaixo: ⤵️
 </p>
 
 <p align="left">  
