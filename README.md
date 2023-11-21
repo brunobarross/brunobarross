@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript,Vue.js, React.js, React Native, Sass e TailwindCSS.</strong>
+  🦄 Tecnologias: <strong>JavaScript, Vue.js, React.js, React Native, Sass e TailwindCSS.</strong>
 </p>
 
 <p align="left">
