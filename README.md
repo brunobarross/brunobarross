@@ -1,7 +1,7 @@
 <img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode">
 
 <p align="left"> 
-  Opa, meu nome é Altamiro Bruno e sou <strong>Desenvolvedor Front-end</strong>.<br>
+ Me chamo Altamiro Bruno, sou <strong>Desenvolvedor Front-end</strong> e possuo graduação em Análise e Desenvolvimento de Sistemas.<br>
   Sou experiente e focado em desenvolvimento de interfaces modernas e intuitivas utilizando Typescript, Vue.js, Quasar, Nuxt.js, TailwindCSS e ferramentas de testes como Vitest e Cypress.
 </p>
 
